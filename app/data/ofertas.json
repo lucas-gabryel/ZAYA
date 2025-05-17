@@ -1,0 +1,79 @@
+[
+    {
+        "id": "F01",
+        "name": "Blusa Minimal ZAYA",
+        "price": "119.90",
+        "image": "/images/produtos/feminino/blusa-minimal.jpg",
+        "description": "Blusa feminina com design clean e tecido leve, ideal para o dia a dia. Perfeita para quem busca conforto e estilo em uma única peça."
+    },
+    {
+        "id": "F02",
+        "name": "Vestido Floral ZAYA",
+        "price": "189.90",
+        "image": "/images/produtos/feminino/vestido-floral.jpg",
+        "description": "Vestido com estampa floral, modelagem soltinha e tecido fresco. Ideal para dias quentes e ocasiões especiais."
+    },
+    {
+        "id": "F03",
+        "name": "Calça Wide Leg ZAYA",
+        "price": "159.90",
+        "image": "/images/produtos/feminino/calca-wide-leg.jpg",
+        "description": "Calça feminina wide leg em tecido leve, proporcionando conforto e estilo para diversas ocasiões."
+    },
+    {
+        "id": "F04",
+        "name": "Saia Midi Plissada ZAYA",
+        "price": "139.90",
+        "image": "/images/produtos/feminino/saia-midi-plissada.jpg",
+        "description": "Saia midi plissada, elegante e versátil, perfeita para compor looks modernos e sofisticados."
+    },
+    {
+        "id": "F05",
+        "name": "Camisa Social ZAYA",
+        "price": "129.90",
+        "image": "/images/produtos/feminino/camisa-social.jpg",
+        "description": "Camisa social feminina em algodão, com corte clássico e detalhes delicados. Ideal para o trabalho ou eventos formais."
+    },
+    {
+        "id": "F06",
+        "name": "Shorts Alfaiataria ZAYA",
+        "price": "99.90",
+        "image": "/images/produtos/feminino/shorts-alfaiataria.jpg",
+        "description": "Shorts de alfaiataria com modelagem moderna, perfeito para compor looks casuais e elegantes."
+    },
+    {
+        "id": "F07",
+        "name": "Jaqueta Jeans ZAYA",
+        "price": "179.90",
+        "image": "/images/produtos/feminino/jaqueta-jeans.jpg",
+        "description": "Jaqueta jeans feminina, peça coringa para todas as estações. Combina com diversos estilos."
+    },
+    {
+        "id": "F08",
+        "name": "Regata Básica ZAYA",
+        "price": "59.90",
+        "image": "/images/produtos/feminino/regata-basica.jpg",
+        "description": "Regata básica em algodão, confortável e ideal para o dia a dia ou para compor sobreposições."
+    },
+    {
+        "id": "F09",
+        "name": "Macacão Pantacourt ZAYA",
+        "price": "169.90",
+        "image": "/images/produtos/feminino/macacao-pantacourt.jpg",
+        "description": "Macacão pantacourt com modelagem moderna e tecido leve, perfeito para um visual elegante e prático."
+    },
+    {
+        "id": "F10",
+        "name": "Blazer Feminino ZAYA",
+        "price": "199.90",
+        "image": "/images/produtos/feminino/blazer-feminino.jpg",
+        "description": "Blazer feminino com corte reto e tecido estruturado, ideal para compor looks sofisticados."
+    },
+    {
+        "id": "F11",
+        "name": "Cardigan Tricot ZAYA",
+        "price": "109.90",
+        "image": "/images/produtos/feminino/cardigan-tricot.jpg",
+        "description": "Cardigan em tricot, peça versátil e confortável para dias mais frescos."
+    }
+]
