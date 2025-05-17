@@ -9,8 +9,8 @@ export interface ProdutoProps {
   description: string;
 }
 
-export interface InputProps
-  extends React.InputHTMLAttributes<HTMLInputElement> {}
+export type ImageProps = React.ImgHTMLAttributes<HTMLImageElement>;
+export type InputProps = React.InputHTMLAttributes<HTMLInputElement>;
 
 export interface LabelProps
   extends React.LabelHTMLAttributes<HTMLLabelElement> {
@@ -22,8 +22,6 @@ export interface ButtonProps
   children: React.ReactNode;
   variant?: "primary" | "secondary" | "outline";
 }
-
-export interface ImageProps extends React.ImgHTMLAttributes<HTMLImageElement> {}
 
 export interface TextProps {
   children: React.ReactNode;
