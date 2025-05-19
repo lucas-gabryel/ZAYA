@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Header from "./components/organisms/header/Header";
+import Footer from "./components/organisms/footer/Footer";
 
 export const metadata: Metadata = {
   title: "ZAYA | Moda Essencial para Todos os Estilos",
@@ -14,7 +16,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-br">
-      <body>{children}</body>
+      <body>
+        <Header />
+        {children}
+        <Footer />
+      </body>
     </html>
   );
 }

@@ -7,7 +7,7 @@ interface Link extends LinkProps {
 
 export default function TextNav({ texto, href, ...rest }: Link) {
     return (
-        <Link href={href} {...rest} className="text-white hover:text-blue-500 hover:underline">
+        <Link href={href} {...rest} className="text-white">
             {texto && <span>{texto}</span>}
         </Link>
     )
