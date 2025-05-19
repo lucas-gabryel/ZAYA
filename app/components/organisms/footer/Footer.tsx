@@ -9,7 +9,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
         
         <div>
-          <Title children="ZAYA" level={2} />
+          <Title level={2}>ZAYA</Title>
           <p className="text-sm text-zinc-400">
             Moda essencial para todos os estilos.
           </p>
@@ -18,11 +18,11 @@ export default function Footer() {
         <div>
           <h3 className="text-white font-semibold mb-3">Navegação</h3>
           <ul className="space-y-2 text-zinc-400">
-            <li><Link href="/" children="Início" /></li>
-            <li><Link href="/masculino" children="Masculino" /></li>
-            <li><Link href="/feminino" children="Feminino" /></li>
-            <li><Link href="/ofertas" children="Ofertas" /></li>
-            <li><Link href="/carrinho" children="Carrinho" /></li>
+            <li><Link href="/">Início</Link></li>
+            <li><Link href="/masculino">Masculino</Link></li>
+            <li><Link href="/feminino">Feminino</Link></li>
+            <li><Link href="/ofertas">Ofertas</Link></li>
+            <li><Link href="/carrinho">Carrinho</Link></li>
           </ul>
         </div>
 

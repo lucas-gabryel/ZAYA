@@ -35,9 +35,11 @@ export const useFrete = () => {
 
       const valorFrete = tabelaFrete[uf] ?? 30
       setFrete(valorFrete)
-    } catch (error: any) {
-      setErro(`Error desconhecido: ${error.message}`)
-      setFrete(null)
+    } catch (error) {
+      if(error instanceof Error){
+        setErro(`Error desconhecido: ${error.message}`)
+        setFrete(null)
+      }
     } finally {
       setLoading(false)
     }

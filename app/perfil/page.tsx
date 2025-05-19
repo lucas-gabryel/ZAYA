@@ -12,7 +12,7 @@ export default function LoginPage() {
       <form className="flex flex-col gap-4 w-full max-w-sm">
         <Input type="email" placeholder="Email" name="email" required />
         <Input type="password" placeholder="Senha" name="password" required />
-        <Button children="Entrar" id="btn-login" />
+        <Button id="btn-login">Entrar</Button>
       </form>
 
       <div className="my-4 text-center text-sm text-gray-500">ou</div>

@@ -7,12 +7,11 @@ export default function Feminino() {
   return (
     <main className="p-6">
       <section className="mb-8 text-center">
-        <Title children="Moda Feminina" />
+        <Title>Moda Feminina</Title>
         <p className="text-zinc-600 mt-2">Confira os produtos selecionados para você</p>
       </section>
 
       <section className="grid grid-cols-1 md:grid-cols-12 gap-6">
-        {/* Coluna de Filtros */}
         <aside className="md:col-span-3">
           <div className="p-4 border rounded bg-white shadow">
             <h2 className="font-semibold mb-4 text-lg">Filtros</h2>
@@ -35,7 +34,6 @@ export default function Feminino() {
           </div>
         </aside>
 
-        {/* Grid de Produtos */}
         <div className="md:col-span-9 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {produtosMasculinos.map((produto) => (
             <CardProduto

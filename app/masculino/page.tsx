@@ -7,7 +7,7 @@ export default function Masculino() {
   return (
     <main className="p-6">
       <section className="mb-8 text-center">
-        <Title children="Moda Masculina" />
+        <Title>Moda Masculina</Title>
         <p className="text-zinc-600 mt-2">Confira os produtos selecionados para você</p>
       </section>
 

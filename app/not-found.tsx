@@ -18,7 +18,7 @@ export default function NotFound() {
       </Text>
 
       <Link href="/" passHref>
-        <Button children="Voltar para Home" className="bg-black text-white hover:bg-zinc-800 px-4 py-3 rounded" />
+        <Button className="bg-black text-white hover:bg-zinc-800 px-4 py-3 rounded">Voltar para Home</Button>
       </Link>
     </div>
   );

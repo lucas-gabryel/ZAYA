@@ -7,7 +7,7 @@ export default function Ofertas() {
   return (
     <main className="p-6">
       <section className="mb-8 text-center">
-        <Title children="Confira nossas ofertas" />
+        <Title>Confira nossas ofertas</Title>
         <p className="text-zinc-600 mt-2">Os melhores produtos com os melhores preços para você</p>
       </section>
 

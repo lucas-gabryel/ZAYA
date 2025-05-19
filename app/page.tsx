@@ -11,9 +11,9 @@ export default function Home() {
     <main className="min-h-screen">
       <section className="flex flex-col-reverse md:flex-row items-center justify-between px-6 py-12 gap-6">
         <div className="flex flex-col max-w-lg">
-          <Title children="Nova coleção disponível" />
-          <Text children="Explore nossos produtos exclusivos com descontos especiais." />
-          <Link children="Ver produtos" href="/produtos" className="px-4 py-3 bg-black text-white rounded mt-4 w-fit hover:opacity-80" />
+          <Title>Nova coleção disponível</Title>
+          <Text>Explore nossos produtos exclusivos com descontos especiais.</Text>
+          <Link href="/produtos" className="px-4 py-3 bg-black text-white rounded mt-4 w-fit hover:opacity-80">Ver produtos</Link>
         </div>
         <div className="w-full md:w-1/2">
           <Image
