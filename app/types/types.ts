@@ -57,6 +57,7 @@ export interface SearchBarProps {
 }
 
 export interface CardProdutoProps {
+  id: string;
   image: string;
   title: string;
   price: string;
@@ -76,4 +77,9 @@ export interface CardProdutoCarrinhoProps {
   onAdd: () => void;
   onRemove: () => void;
   onDelete: () => void;
+}
+
+export interface CurtidasContextType {
+  curtidas: string[];
+  toggleCurtida: (id: string) => void;
 }

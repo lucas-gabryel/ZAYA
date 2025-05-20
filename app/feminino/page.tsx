@@ -38,6 +38,7 @@ export default function Feminino() {
           {produtosMasculinos.map((produto) => (
             <CardProduto
               key={produto.id}
+              id={produto.id}
               title={produto.name}
               price={produto.price}
               image={produto.image}
