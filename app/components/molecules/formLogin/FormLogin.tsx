@@ -26,6 +26,7 @@ export default function FormLogin() {
   return (
     <form
       onSubmit={handleSubmit(onSubmit)}
+      noValidate
       className="flex flex-col gap-4 w-full max-w-sm"
     >
       {isSubmitSuccessful && (

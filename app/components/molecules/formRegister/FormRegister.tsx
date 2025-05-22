@@ -28,6 +28,7 @@ export default function FormRegister() {
   return (
     <form
       onSubmit={handleSubmit(onSubmit)}
+      noValidate
       className="flex flex-col gap-4 w-full max-w-sm"
     >
       {isSubmitSuccessful && (
@@ -56,8 +57,8 @@ export default function FormRegister() {
         <Input
           {...register("email")}
           hasError={!!errors.email}
-          type="email"
           placeholder="Digite seu e-mail"
+          type="email"
         />
         {errors.email && (
           <p className="mt-1 text-xs text-red-600 dark:text-red-400">
