@@ -1,0 +1,160 @@
+{
+  "home": {
+    "hero": {
+      "title": "Nova coleção disponível",
+      "text": "Explore nossos produtos exclusivos com descontos especiais.",
+      "btn": "Ver produtos"
+    },
+    "section": {
+      "title": "Destaques"
+    }
+  },
+  "header": {
+    "label": "Abrir menu",
+    "placeholder": "Buscar"
+  },
+  "footer": {
+    "text": "Moda essencial para todos os estilos.",
+    "btn": "Ver produtos",
+    "nav": {
+      "title": "Navegação"
+    },
+    "share": {
+      "title": "Siga-nos"
+    },
+    "direitos": "Todos os direitos reservados."
+  },
+  "textNav": {
+    "home": "Início",
+    "masculino": "Masculino",
+    "feminino": "Feminino",
+    "ofertas": "Ofertas",
+    "carrinho": "Carrinho"
+  },
+  "masculino": {
+    "title": "Moda Masculina",
+    "text": "Confira os produtos selecionados para você",
+    "filter": {
+      "title": "Filtros",
+      "categoria": {
+        "label": "Categoria",
+        "op1": "Todos",
+        "op2": "Camisetas",
+        "op3": "Bermudas",
+        "op4": "Calças"
+      },
+      "price": {
+        "label": "Preço"
+      }
+    }
+  },
+  "feminino": {
+    "title": "Moda Feminina",
+    "text": "Confira os produtos selecionados para você",
+    "filter": {
+      "title": "Filtros",
+      "categoria": {
+        "label": "Categoria",
+        "op1": "Todos",
+        "op2": "Camisetas",
+        "op3": "Bermudas",
+        "op4": "Calças"
+      },
+      "price": {
+        "label": "Preço"
+      }
+    }
+  },
+  "ofertas": {
+    "title": "Confira nossas ofertas",
+    "text": "Os melhores produtos com os melhores preços para você",
+    "filter": {
+      "title": "Filtros",
+      "categoria": {
+        "label": "Categoria",
+        "op1": "Todos",
+        "op2": "Camisetas",
+        "op3": "Bermudas",
+        "op4": "Calças"
+      },
+      "price": {
+        "label": "Preço"
+      }
+    }
+  },
+  "perfil": {
+    "errorGoogle": "Erro ao fazer login:",
+    "title": "Seja um membro ZAYA",
+    "signin": {
+      "title": "Entrar",
+      "ou": "ou"
+    },
+    "signup": {
+      "title": "Registrar"
+    }
+  },
+  "formLogin": {
+    "alert": "Login realizado com sucesso!",
+    "email": {
+      "label": "E-mail",
+      "placeholder": "Digite seu e-mail",
+      "error": "Por favor, insira um e-mail válido!"
+    },
+    "password": {
+      "label": "Senha",
+      "placeholder": "Digite sua senha",
+      "error": "A senha precisa ter mais de 7 caracteres"
+    },
+    "btn": {
+      "stop": "Entrar",
+      "run": "Entrando..."
+    }
+  },
+  "btnGoogle": {
+    "run": "Entrando...",
+    "stop": "Entrar com Google"
+  },
+  "formRegister": {
+    "alert": "Registro realizado com sucesso!",
+    "name": {
+      "label": "Nome",
+      "placeholder": "Digite seu nome",
+      "error": "O nome deve ter pelo menos três caracteres"
+    },
+    "email": {
+      "label": "E-mail",
+      "placeholder": "Digite seu e-mail",
+      "error": "Por favor, insira um e-mail válido!"
+    },
+    "password": {
+      "label": "Senha",
+      "placeholder": "Digite sua senha",
+      "error": "A senha precisa ter mais de 7 caracteres"
+    },
+    "btn": {
+      "stop": "Registar",
+      "run": "Registrando..."
+    }
+  },
+  "carrinho": {
+    "title": "Seu Carrinho",
+    "text": "Seu carrinho está vazio."
+  },
+  "resumoCompra": {
+    "title": "Resumo da Compra",
+    "cep": {
+      "label": "CEP:",
+      "placeholder": "Digite seu CEP",
+      "btn": {
+        "run": "Calculando...",
+        "stop": "Calcular frete"
+      }
+    },
+    "subtotal": {
+      "span1": "Subtotal",
+      "span2": "Frete",
+      "span3": "Total",
+      "btn": "Finalizar Compra"
+    }
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "home": {
+    "hero": {
+      "title": "New collection available",
+      "text": "Explore our exclusive products with special discounts.",
+      "btn": "View products"
+    },
+    "section": {
+      "title": "Highlights"
+    }
+  },
+  "header": {
+    "label": "Open menu",
+    "placeholder": "Search"
+  },
+  "footer": {
+    "text": "Essential fashion for all styles.",
+    "btn": "View products",
+    "nav": {
+      "title": "Navigation"
+    },
+    "share": {
+      "title": "Follow us"
+    },
+    "direitos": "All rights reserved."
+  },
+  "textNav": {
+    "home": "Home",
+    "masculino": "Men",
+    "feminino": "Women",
+    "ofertas": "Offers",
+    "carrinho": "Cart"
+  },
+  "masculino": {
+    "title": "Men's Fashion",
+    "text": "Check out the products selected for you",
+    "filter": {
+      "title": "Filters",
+      "categoria": {
+        "label": "Category",
+        "op1": "All",
+        "op2": "T-Shirts",
+        "op3": "Shorts",
+        "op4": "Pants"
+      },
+      "price": {
+        "label": "Price"
+      }
+    }
+  },
+  "feminino": {
+    "title": "Women's Fashion",
+    "text": "Check out the products selected for you",
+    "filter": {
+      "title": "Filters",
+      "categoria": {
+        "label": "Category",
+        "op1": "All",
+        "op2": "T-Shirts",
+        "op3": "Shorts",
+        "op4": "Pants"
+      },
+      "price": {
+        "label": "Price"
+      }
+    }
+  },
+  "ofertas": {
+    "title": "Check out our offers",
+    "text": "The best products at the best prices for you",
+    "filter": {
+      "title": "Filters",
+      "categoria": {
+        "label": "Category",
+        "op1": "All",
+        "op2": "T-Shirts",
+        "op3": "Shorts",
+        "op4": "Pants"
+      },
+      "price": {
+        "label": "Price"
+      }
+    }
+  },
+  "perfil": {
+    "errorGoogle": "Error logging in:",
+    "title": "Become a ZAYA member",
+    "signin": {
+      "title": "Sign in",
+      "ou": "or"
+    },
+    "signup": {
+      "title": "Register"
+    }
+  },
+  "formLogin": {
+    "alert": "Login successful!",
+    "email": {
+      "label": "Email",
+      "placeholder": "Enter your email",
+      "error": "Please enter a valid email!"
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "Enter your password",
+      "error": "Password must be longer than 7 characters"
+    },
+    "btn": {
+      "stop": "Sign in",
+      "run": "Signing in..."
+    }
+  },
+  "btnGoogle": {
+    "run": "Signing in...",
+    "stop": "Sign in with Google"
+  },
+  "formRegister": {
+    "alert": "Registration successful!",
+    "name": {
+      "label": "Name",
+      "placeholder": "Enter your name",
+      "error": "Name must be at least three characters"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "Enter your email",
+      "error": "Please enter a valid email!"
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "Enter your password",
+      "error": "Password must be longer than 7 characters"
+    },
+    "btn": {
+      "stop": "Sign up",
+      "run": "Signing up..."
+    }
+  },
+  "carrinho": {
+    "title": "Your Cart",
+    "text": "Your cart is empty."
+  },
+  "resumoCompra": {
+    "title": "Purchase Summary",
+    "cep": {
+      "label": "ZIP Code:",
+      "placeholder": "Enter your ZIP code",
+      "btn": {
+        "run": "Calculating...",
+        "stop": "Calculate shipping"
+      }
+    },
+    "subtotal": {
+      "span1": "Subtotal",
+      "span2": "Shipping",
+      "span3": "Total",
+      "btn": "Complete Purchase"
+    }
+  }
+}

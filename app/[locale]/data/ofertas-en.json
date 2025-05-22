@@ -1,0 +1,86 @@
+[
+    {
+        "id": "F01",
+        "name": "Minimal Blouse ZAYA",
+        "price": "119.90",
+        "image": "/camisaMinimal.png",
+        "description": "Women's blouse with a clean design and lightweight fabric, ideal for everyday wear. Perfect for those seeking comfort and style in a single piece."
+    },
+    {
+        "id": "F02",
+        "name": "Floral Dress ZAYA",
+        "price": "189.90",
+        "image": "/camisaMinimal.png",
+        "description": "Dress with floral print, loose fit, and fresh fabric. Ideal for hot days and special occasions."
+    },
+    {
+        "id": "F03",
+        "name": "Wide Leg Pants ZAYA",
+        "price": "159.90",
+        "image": "/camisaMinimal.png",
+        "description": "Women's wide leg pants in lightweight fabric, providing comfort and style for various occasions."
+    },
+    {
+        "id": "F04",
+        "name": "Pleated Midi Skirt ZAYA",
+        "price": "139.90",
+        "image": "/camisaMinimal.png",
+        "description": "Pleated midi skirt, elegant and versatile, perfect for creating modern and sophisticated looks."
+    },
+    {
+        "id": "F05",
+        "name": "Social Shirt ZAYA",
+        "price": "129.90",
+        "image": "/camisaMinimal.png",
+        "description": "Women's cotton social shirt with a classic cut and delicate details. Ideal for work or formal events."
+    },
+    {
+        "id": "F06",
+        "name": "Tailored Shorts ZAYA",
+        "price": "99.90",
+        "image": "/camisaMinimal.png",
+        "description": "Tailored shorts with a modern fit, perfect for creating casual and elegant looks."
+    },
+    {
+        "id": "F07",
+        "name": "Denim Jacket ZAYA",
+        "price": "179.90",
+        "image": "/camisaMinimal.png",
+        "description": "Women's denim jacket, a staple piece for all seasons. Matches various styles."
+    },
+    {
+        "id": "F08",
+        "name": "Basic Tank Top ZAYA",
+        "price": "59.90",
+        "image": "/camisaMinimal.png",
+        "description": "Basic cotton tank top, comfortable and ideal for everyday wear or layering."
+    },
+    {
+        "id": "F09",
+        "name": "Pantacourt Jumpsuit ZAYA",
+        "price": "169.90",
+        "image": "/camisaMinimal.png",
+        "description": "Pantacourt jumpsuit with a modern fit and lightweight fabric, perfect for an elegant and practical look."
+    },
+    {
+        "id": "F10",
+        "name": "Women's Blazer ZAYA",
+        "price": "199.90",
+        "image": "/camisaMinimal.png",
+        "description": "Women's blazer with a straight cut and structured fabric, ideal for creating sophisticated looks."
+    },
+    {
+        "id": "F11",
+        "name": "Tricot Cardigan ZAYA",
+        "price": "109.90",
+        "image": "/camisaMinimal.png",
+        "description": "Tricot cardigan, a versatile and comfortable piece for cooler days."
+    },
+    {
+        "id": "F12",
+        "name": "Minimal Blouse ZAYA",
+        "price": "119.90",
+        "image": "/camisaMinimal.png",
+        "description": "Women's blouse with a clean design and lightweight fabric, ideal for everyday wear. Perfect for those seeking comfort and style in a single piece."
+    }
+]

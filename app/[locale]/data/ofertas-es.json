@@ -1,0 +1,86 @@
+[
+    {
+        "id": "F01",
+        "name": "Blusa Minimal ZAYA",
+        "price": "119.90",
+        "image": "/camisaMinimal.png",
+        "description": "Blusa femenina con diseño limpio y tejido ligero, ideal para el día a día. Perfecta para quienes buscan comodidad y estilo en una sola prenda."
+    },
+    {
+        "id": "F02",
+        "name": "Vestido Floral ZAYA",
+        "price": "189.90",
+        "image": "/camisaMinimal.png",
+        "description": "Vestido con estampado floral, corte suelto y tejido fresco. Ideal para días calurosos y ocasiones especiales."
+    },
+    {
+        "id": "F03",
+        "name": "Pantalón Wide Leg ZAYA",
+        "price": "159.90",
+        "image": "/camisaMinimal.png",
+        "description": "Pantalón femenino wide leg en tejido ligero, que proporciona comodidad y estilo para diversas ocasiones."
+    },
+    {
+        "id": "F04",
+        "name": "Falda Midi Plisada ZAYA",
+        "price": "139.90",
+        "image": "/camisaMinimal.png",
+        "description": "Falda midi plisada, elegante y versátil, perfecta para crear looks modernos y sofisticados."
+    },
+    {
+        "id": "F05",
+        "name": "Camisa Social ZAYA",
+        "price": "129.90",
+        "image": "/camisaMinimal.png",
+        "description": "Camisa social femenina de algodón, con corte clásico y detalles delicados. Ideal para el trabajo o eventos formales."
+    },
+    {
+        "id": "F06",
+        "name": "Shorts Sastrería ZAYA",
+        "price": "99.90",
+        "image": "/camisaMinimal.png",
+        "description": "Shorts de sastrería con corte moderno, perfectos para crear looks casuales y elegantes."
+    },
+    {
+        "id": "F07",
+        "name": "Chaqueta Vaquera ZAYA",
+        "price": "179.90",
+        "image": "/camisaMinimal.png",
+        "description": "Chaqueta vaquera femenina, prenda clave para todas las estaciones. Combina con varios estilos."
+    },
+    {
+        "id": "F08",
+        "name": "Camiseta Sin Mangas Básica ZAYA",
+        "price": "59.90",
+        "image": "/camisaMinimal.png",
+        "description": "Camiseta sin mangas básica de algodón, cómoda e ideal para el día a día o para superposiciones."
+    },
+    {
+        "id": "F09",
+        "name": "Mono Pantacourt ZAYA",
+        "price": "169.90",
+        "image": "/camisaMinimal.png",
+        "description": "Mono pantacourt con corte moderno y tejido ligero, perfecto para un look elegante y práctico."
+    },
+    {
+        "id": "F10",
+        "name": "Blazer Femenino ZAYA",
+        "price": "199.90",
+        "image": "/camisaMinimal.png",
+        "description": "Blazer femenino con corte recto y tejido estructurado, ideal para crear looks sofisticados."
+    },
+    {
+        "id": "F11",
+        "name": "Cárdigan de Punto ZAYA",
+        "price": "109.90",
+        "image": "/camisaMinimal.png",
+        "description": "Cárdigan de punto, prenda versátil y cómoda para días más frescos."
+    },
+    {
+        "id": "F12",
+        "name": "Blusa Minimal ZAYA",
+        "price": "119.90",
+        "image": "/camisaMinimal.png",
+        "description": "Blusa femenina con diseño limpio y tejido ligero, ideal para el día a día. Perfecta para quienes buscan comodidad y estilo en una sola prenda."
+    }
+]

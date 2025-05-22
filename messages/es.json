@@ -1,0 +1,160 @@
+{
+  "home": {
+    "hero": {
+      "title": "Nueva colección disponible",
+      "text": "Explora nuestros productos exclusivos con descuentos especiales.",
+      "btn": "Ver productos"
+    },
+    "section": {
+      "title": "Destacados"
+    }
+  },
+  "header": {
+    "label": "Abrir menú",
+    "placeholder": "Buscar"
+  },
+  "footer": {
+    "text": "Moda esencial para todos los estilos.",
+    "btn": "Ver productos",
+    "nav": {
+      "title": "Navegación"
+    },
+    "share": {
+      "title": "Síguenos"
+    },
+    "direitos": "Todos los derechos reservados."
+  },
+  "textNav": {
+    "home": "Inicio",
+    "masculino": "Hombre",
+    "feminino": "Mujer",
+    "ofertas": "Ofertas",
+    "carrinho": "Carrito"
+  },
+  "masculino": {
+    "title": "Moda Masculina",
+    "text": "Consulta los productos seleccionados para ti",
+    "filter": {
+      "title": "Filtros",
+      "categoria": {
+        "label": "Categoría",
+        "op1": "Todos",
+        "op2": "Camisetas",
+        "op3": "Bermudas",
+        "op4": "Pantalones"
+      },
+      "price": {
+        "label": "Precio"
+      }
+    }
+  },
+  "feminino": {
+    "title": "Moda Femenina",
+    "text": "Consulta los productos seleccionados para ti",
+    "filter": {
+      "title": "Filtros",
+      "categoria": {
+        "label": "Categoría",
+        "op1": "Todos",
+        "op2": "Camisetas",
+        "op3": "Bermudas",
+        "op4": "Pantalones"
+      },
+      "price": {
+        "label": "Precio"
+      }
+    }
+  },
+  "ofertas": {
+    "title": "Consulta nuestras ofertas",
+    "text": "Los mejores productos a los mejores precios para ti",
+    "filter": {
+      "title": "Filtros",
+      "categoria": {
+        "label": "Categoría",
+        "op1": "Todos",
+        "op2": "Camisetas",
+        "op3": "Bermudas",
+        "op4": "Pantalones"
+      },
+      "price": {
+        "label": "Precio"
+      }
+    }
+  },
+  "perfil": {
+    "errorGoogle": "Error al iniciar sesión:",
+    "title": "Sé un miembro de ZAYA",
+    "signin": {
+      "title": "Iniciar sesión",
+      "ou": "o"
+    },
+    "signup": {
+      "title": "Registrarse"
+    }
+  },
+  "formLogin": {
+    "alert": "¡Inicio de sesión exitoso!",
+    "email": {
+      "label": "Correo electrónico",
+      "placeholder": "Ingresa tu correo electrónico",
+      "error": "¡Por favor, introduce un correo válido!"
+    },
+    "password": {
+      "label": "Contraseña",
+      "placeholder": "Ingresa tu contraseña",
+      "error": "La contraseña debe tener más de 7 caracteres"
+    },
+    "btn": {
+      "stop": "Entrar",
+      "run": "Entrando..."
+    }
+  },
+  "btnGoogle": {
+    "run": "Entrando...",
+    "stop": "Entrar con Google"
+  },
+  "formRegister": {
+    "alert": "¡Registro exitoso!",
+    "name": {
+      "label": "Nombre",
+      "placeholder": "Ingresa tu nombre",
+      "error": "El nombre debe tener al menos tres caracteres"
+    },
+    "email": {
+      "label": "Correo electrónico",
+      "placeholder": "Ingresa tu correo electrónico",
+      "error": "¡Por favor, introduce un correo válido!"
+    },
+    "password": {
+      "label": "Contraseña",
+      "placeholder": "Ingresa tu contraseña",
+      "error": "La contraseña debe tener más de 7 caracteres"
+    },
+    "btn": {
+      "stop": "Registro",
+      "run": "Registro..."
+    }
+  },
+  "carrinho": {
+    "title": "Tu carrito",
+    "text": "Tu carrito está vacío."
+  },
+  "resumoCompra": {
+    "title": "Resumen de compra",
+    "cep": {
+      "label": "Código postal:",
+      "placeholder": "Ingresa tu código postal",
+      "btn": {
+        "run": "Calculando...",
+        "stop": "Calcular envío"
+      }
+    },
+    "subtotal": {
+      "span1": "Subtotal",
+      "span2": "Envío",
+      "span3": "Total",
+      "btn": "Finalizar compra"
+    }
+  }
+}
