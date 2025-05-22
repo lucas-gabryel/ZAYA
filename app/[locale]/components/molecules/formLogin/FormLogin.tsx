@@ -34,7 +34,7 @@ export default function FormLogin() {
     >
       {isSubmitSuccessful && (
         <Alert
-          message="{t('formLogin.alert')}"
+          message={t('formLogin.alert')}
           type="success"
           duration={4000}
         />

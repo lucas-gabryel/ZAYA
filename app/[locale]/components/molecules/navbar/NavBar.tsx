@@ -15,6 +15,11 @@ export default function NavBar() {
             </Link>
           </li>
           <li className="p-3 hover:border-b hover:border-white">
+            <Link href="/sobre" className="text-white">
+              {t("textNav.sobre")}
+            </Link>
+          </li>
+          <li className="p-3 hover:border-b hover:border-white">
             <Link href="/masculino" className="text-white">
               {t("textNav.masculino")}
             </Link>
