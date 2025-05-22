@@ -13,8 +13,10 @@ export function useGoogleLogin() {
     try {
       const result = await signInWithPopup(auth, provider);
       setUser(result.user);
-    } catch (err: any) {
-      setError(err.message);
+    } catch (err) {
+      if(err instanceof Error){
+        setError(err.message);
+      }
     } finally {
       setLoading(false);
     }
