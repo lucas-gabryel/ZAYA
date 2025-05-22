@@ -35,7 +35,7 @@ export function CardProduto({ id, image, title, price }: CardProdutoProps) {
             aria-label="Curtir"
             className={`${
               curtido ? "bg-red-500 text-white" : "bg-white/80"
-            } hover:bg-white rounded-full p-3 shadow-md transition`}
+            } rounded-full p-3 shadow-md transition`}
             onClick={() => toggleCurtida(id)}
           >
             <FiHeart size={18} />

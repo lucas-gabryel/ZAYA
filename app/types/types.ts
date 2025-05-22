@@ -10,7 +10,12 @@ export interface ProdutoProps {
 }
 
 export type ImageProps = React.ImgHTMLAttributes<HTMLImageElement>;
-export type InputProps = React.InputHTMLAttributes<HTMLInputElement>;
+
+export interface InputProps
+  extends React.InputHTMLAttributes<HTMLInputElement> {
+  hasError?: boolean;
+  className?: string;
+}
 
 export interface LabelProps
   extends React.LabelHTMLAttributes<HTMLLabelElement> {
@@ -82,4 +87,10 @@ export interface CardProdutoCarrinhoProps {
 export interface CurtidasContextType {
   curtidas: string[];
   toggleCurtida: (id: string) => void;
+}
+
+export interface AlertProps {
+  message: string;
+  type?: "success" | "error" | "warning";
+  duration?: number;
 }
