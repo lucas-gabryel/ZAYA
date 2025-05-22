@@ -1,7 +1,7 @@
 import React from "react";
 import { Icon } from "../../atoms/icon/Icon";
 import { IoPersonOutline } from "react-icons/io5";
-import { Link } from "../../atoms/link/Link";
+import { Link } from "@/i18n/navigation";
 
 export default function Perfil(){
     return (

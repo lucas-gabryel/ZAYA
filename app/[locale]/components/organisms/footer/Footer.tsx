@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "../../atoms/link/Link";
+import { Link } from "@/i18n/navigation";
 import { Title } from "../../atoms/title/Title";
 import { FaInstagram, FaFacebook, FaTwitter } from "react-icons/fa";
 import { useTranslations } from 'next-intl';
